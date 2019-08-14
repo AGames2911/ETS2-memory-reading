@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E36dashboard", "E36dashboard\E36dashboard.csproj", "{7521E22A-8497-452B-96C6-FC986AF255FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7521E22A-8497-452B-96C6-FC986AF255FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7521E22A-8497-452B-96C6-FC986AF255FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7521E22A-8497-452B-96C6-FC986AF255FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7521E22A-8497-452B-96C6-FC986AF255FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFBFFF3-96DF-44EF-9A35-FED55E700ED0}
+	EndGlobalSection
+EndGlobal
